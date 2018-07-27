@@ -1,0 +1,29 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	box-sizing: border-box;
+	background-color: #334455;
+	text-align: center;
+	padding: 20px;
+}
+
+.heading {
+	font-style: italic;
+	font-family: monospace;
+	font-variant: small-caps;
+	color: #dd3311
+}
+
+.text {
+	letter-spacing: 1.3px;
+	font-family: fantasy;
+	color: #ddd;
+}
